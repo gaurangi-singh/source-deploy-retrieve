@@ -191,6 +191,7 @@
     "dashboardFolder": "dashboardfolder",
     "dataCalcInsightTemplate": "datacalcinsighttemplate",
     "dataConnectorIngestApi": "dataconnectoringestapi",
+    "dataKitObjectDependency": "datakitobjectdependency",
     "dataKitObjectTemplate": "datakitobjecttemplate",
     "dataPackageKitDefinition": "datapackagekitdefinition",
     "dataPipeline": "datapipeline",
@@ -239,6 +240,7 @@
     "emailFolder": "emailfolder",
     "enablementMeasureDefinition": "enablementmeasuredefinition",
     "enablementProgramDefinition": "enablementprogramdefinition",
+    "enblProgramTaskSubCategory": "enblprogramtasksubcategory",
     "entitlementProcess": "entitlementprocess",
     "entitlementTemplate": "entitlementtemplate",
     "entityImplements": "entityimplements",
@@ -310,6 +312,7 @@
     "keywords": "keywordlist",
     "labels": "customlabels",
     "layout": "layout",
+    "learningItemType": "learningitemtype",
     "letter": "letterhead",
     "licenseDefinition": "licensedefinition",
     "lightningBolt": "lightningbolt",
@@ -1672,6 +1675,13 @@
       "strictDirectoryName": false,
       "suffix": "s3DataConnector"
     },
+    "datakitobjectdependency": {
+      "directoryName": "dataKitObjectDependencies",
+      "id": "datakitobjectdependency",
+      "inFolder": false,
+      "name": "DataKitObjectDependency",
+      "suffix": "dataKitObjectDependency"
+    },
     "datakitobjecttemplate": {
       "directoryName": "dataKitObjectTemplates",
       "id": "datakitobjecttemplate",
@@ -2080,6 +2090,14 @@
       "name": "EnablementProgramDefinition",
       "strictDirectoryName": false,
       "suffix": "enablementProgramDefinition"
+    },
+    "enblprogramtasksubcategory": {
+      "directoryName": "enblProgramTaskSubCategories",
+      "id": "enblprogramtasksubcategory",
+      "inFolder": false,
+      "name": "EnblProgramTaskSubCategory",
+      "strictDirectoryName": false,
+      "suffix": "enblProgramTaskSubCategory"
     },
     "entitlementprocess": {
       "directoryName": "entitlementProcesses",
@@ -2594,14 +2612,14 @@
       "suffix": "gatewayProviderPaymentMethodType"
     },
     "genaifunction": {
-      "directoryName": "genAiFunction",
+      "directoryName": "genAiFunctions",
       "id": "genaifunction",
       "inFolder": false,
       "name": "GenAiFunction",
       "suffix": "genAiFunction"
     },
     "genaiplanner": {
-      "directoryName": "genAiPlanner",
+      "directoryName": "genAiPlanners",
       "id": "genaiplanner",
       "inFolder": false,
       "name": "GenAiPlanner",
@@ -2806,6 +2824,14 @@
       "name": "LeadConvertSettings",
       "strictDirectoryName": false,
       "suffix": "LeadConvertSetting"
+    },
+    "learningitemtype": {
+      "directoryName": "learningItemTypes",
+      "id": "learningitemtype",
+      "inFolder": false,
+      "name": "LearningItemType",
+      "strictDirectoryName": false,
+      "suffix": "learningItemType"
     },
     "letterhead": {
       "directoryName": "letterhead",

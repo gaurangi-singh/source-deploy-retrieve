@@ -1,3 +1,52 @@
+## [11.6.5](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.6.4...11.6.5) (2024-06-03)
+
+
+### Bug Fixes
+
+* "did you mean" for project metadata detects mdapi format ([8830972](https://github.com/forcedotcom/source-deploy-retrieve/commit/88309728e9f9c11387b56ebbd63adcfc76f40ba3))
+
+
+
+## [11.6.4](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.6.3...11.6.4) (2024-05-31)
+
+
+### Bug Fixes
+
+* set forceIgnoredPaths on CS ([#1330](https://github.com/forcedotcom/source-deploy-retrieve/issues/1330)) ([f28206e](https://github.com/forcedotcom/source-deploy-retrieve/commit/f28206e4465a71c7bc50ee15d21bc8e8c00e33bd))
+
+
+
+## [11.6.3](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.6.2...11.6.3) (2024-05-26)
+
+
+### Bug Fixes
+
+* **deps:** bump @salesforce/core from 7.3.8 to 7.3.9 ([#1324](https://github.com/forcedotcom/source-deploy-retrieve/issues/1324)) ([7c6e3c8](https://github.com/forcedotcom/source-deploy-retrieve/commit/7c6e3c89b959938ce31c10ca0dd9bac463afadbb))
+
+
+
+## [11.6.2](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.6.1...11.6.2) (2024-05-23)
+
+
+### Bug Fixes
+
+* **mdTypes:** pluralize genai type dirs ([#1322](https://github.com/forcedotcom/source-deploy-retrieve/issues/1322)) ([faac5bc](https://github.com/forcedotcom/source-deploy-retrieve/commit/faac5bcac21dae01d051335e89441dd6c5aadc9f))
+
+
+
+## [11.6.1](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.6.0...11.6.1) (2024-05-22)
+
+
+
+# [11.6.0](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.5.0...11.6.0) (2024-05-21)
+
+
+### Features
+
+* rename presets property ([#1312](https://github.com/forcedotcom/source-deploy-retrieve/issues/1312)) ([df722e3](https://github.com/forcedotcom/source-deploy-retrieve/commit/df722e3c67420b8ef65dd6832eb74d5b52ded54c))
+
+
+
 # [11.5.0](https://github.com/forcedotcom/source-deploy-retrieve/compare/11.4.4...11.5.0) (2024-05-20)
 
 
